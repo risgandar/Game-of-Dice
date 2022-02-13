@@ -29,3 +29,4 @@ Button(root, text='Move', command=img).pack()
 root.bind('<1>', img)
 img('event')
 root.mainloop()
+#read me
